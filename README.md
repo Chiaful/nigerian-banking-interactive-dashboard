@@ -7,7 +7,7 @@
 
 ## 🔗 Live Dashboard
 
-👉 **[View Interactive Dashboard](https://claritize.github.io/nigeria-banking-dashboard)**
+👉 **[View Interactive Dashboard](https://chiaful.github.io/nigerian-banking-interactive-dashboard/)**
 
 ---
 
